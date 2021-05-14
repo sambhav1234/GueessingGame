@@ -1,1 +1,1 @@
-# GueessingGame
+# RGB-Color-Game
